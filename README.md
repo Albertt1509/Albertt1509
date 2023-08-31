@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Albert Prido</h1>
+<h1 align="center">Hi 👋, I'm ALPHA</h1>
 <h3 align="center">A frontend web developer programmer from Indonesia</h3>
 
 - 📫 How to reach me **nathanael3321@gmail.com**
